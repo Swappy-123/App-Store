@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border: 0px solid;
+  border-radius: 12px;
+}
+
+.img {
+  height: 50px;
+  width: 50px;
+}
+
+.para {
+  font-size: 15px;
+  font-family: 'Bree Serif';
+  color: black;
+}
